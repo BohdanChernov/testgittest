@@ -5,5 +5,6 @@ public class NewFeature2 {
         System.out.println("newFeature2 change 3");
         System.out.println("newFeature2 change 4");
         System.out.println("newFeature2 change 5");
+        System.out.println("newFeature2 change 6");
     }
 }
